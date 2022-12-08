@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+table,thead,tr,th,td {
+  border: 1px solid black;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.result, .link {
+  text-align: center;
+}
